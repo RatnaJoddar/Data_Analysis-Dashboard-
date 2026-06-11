@@ -22,23 +22,47 @@ Determine highest selling category
 Calculate % of total orders delivered
 Dashboard Interaction
 
-## Data Cleaning
+### Data Cleaning
 
 Checked for missing values and inconsistencies
 Standardized formats and data types
 
-## Data Preparation
+### Data Preparation
 
 Structured dataset for analysis
 Ensured uniform naming conventions
 
-## Data Analysis
+### Data Analysis
 
 Created Pivot Tables for each KPI
 Aggregated and summarized key metrics
 
-## Dashboard Creation
+### Dashboard Creation
 
 Combined all visuals into one interactive dashboard
 Added Slicers for dynamic filtering
 
+Key Insights
+👩 Women contribute ~65% of total purchases
+🏆 Top 3 states: Maharashtra, Karnataka, Uttar Pradesh
+👨‍👩‍👧 Adult age group (30–49 years) contributes ~50% of orders
+🛒 Top channels: Amazon, Flipkart, Myntra
+📦 >90% of orders are successfully delivered
+🧠 Final Conclusion
+To boost sales, E-Commerce Store should:
+
+Focus on women aged 30–49 years
+Target customers in:
+Maharashtra
+Karnataka
+Uttar Pradesh
+Invest in:
+Digital marketing campaigns
+Personalized promotions
+E-commerce platform optimization
+🛠️ Tools Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers
+Dashboard Design
