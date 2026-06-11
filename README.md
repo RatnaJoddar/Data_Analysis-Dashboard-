@@ -22,22 +22,22 @@ Determine highest selling category
 Calculate % of total orders delivered
 Dashboard Interaction
 
-##Data Cleaning
+## Data Cleaning
 
 Checked for missing values and inconsistencies
 Standardized formats and data types
 
-##Data Preparation
+## Data Preparation
 
 Structured dataset for analysis
 Ensured uniform naming conventions
 
-##Data Analysis
+## Data Analysis
 
 Created Pivot Tables for each KPI
 Aggregated and summarized key metrics
 
-##Dashboard Creation
+## Dashboard Creation
 
 Combined all visuals into one interactive dashboard
 Added Slicers for dynamic filtering
